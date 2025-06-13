@@ -1,0 +1,17 @@
+body {
+  font-size: 0.9rem;
+  background-color: #f9f9f9;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.card {
+  border-radius: 16px;
+}
